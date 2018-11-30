@@ -1,6 +1,6 @@
 # Warehouse-
 
-I did this project in college, it consists of software in java that shows:
+I did this project in college, it consists of a java software that shows:
 
  >The quantity of beers (can be anything) in the store
  
